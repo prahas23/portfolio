@@ -17,7 +17,7 @@ export default function Model(props) {
 
   const group = useRef()
 
-   const videoTexture = useVideoTexture(props.texture || `${import.meta.env.BASE_URL}textures/project/UIOne.mkv`, {
+   const videoTexture = useVideoTexture(props.texture || `${import.meta.env.BASE_URL}textures/project/UIOne.mp4`, {
     loop: true,
     muted: true,
     playsInline: true,

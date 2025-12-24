@@ -17,7 +17,7 @@ export default function Model(props) {
 
   const group = useRef()
 
-  const videoTexture = useVideoTexture(`${import.meta.env.BASE_URL}textures/project/nes.mkv`, {
+  const videoTexture = useVideoTexture(`${import.meta.env.BASE_URL}textures/project/nes.mp4`, {
     loop: true,
     muted: true,
     playsInline: true,

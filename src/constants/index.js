@@ -33,7 +33,7 @@ export const myProjects = [
             'Almost every part was 3D printed (except the motors and other metal parts obviously) from the open source STL files and assembled from scratch, which took me ' +
             'a little over four months, which was way over the expected timeline because of the availability of the 3D printers in my University and me trying to juggle this project and my Masters\' course.',
         href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
-        texture: `${import.meta.env.BASE_URL}textures/project/project1.mkv`,
+        texture: `${import.meta.env.BASE_URL}textures/project/project1.mp4`,
         logo: `${import.meta.env.BASE_URL}assets/arm_logo.png`,
         logoStyle: {
             backgroundColor: '#2A1816',
@@ -73,7 +73,7 @@ export const myProjects = [
             'The video shows me moving the fingers and the wrist to give you an idea of what the dexterous movement of the MCP joints and the wrist would look like after being connected to the controller. '+
             'The next section tells you what motors were used, how the connections were done so far and how the rest would be connected. I also talk about the planned future works for this project.',
         href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
-        texture: `${import.meta.env.BASE_URL}textures/project/project1.1.mkv`,
+        texture: `${import.meta.env.BASE_URL}textures/project/project1.1.mp4`,
         logo: `${import.meta.env.BASE_URL}assets/arm_logo2.png`,
         logoStyle: {
             backgroundColor: '#13202F',
@@ -115,7 +115,7 @@ export const myProjects = [
             'I am also very eager to try an EMG sensor to map the muscle movements of a person to this dexterous hand. The plan is to attach the sensor to the person\'s forearm and fine tune '+
             'the process for precise and smooth independent finger control.',
         href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
-        texture: `${import.meta.env.BASE_URL}textures/project/project1.2.mkv`,
+        texture: `${import.meta.env.BASE_URL}textures/project/project1.2.mp4`,
         logo: `${import.meta.env.BASE_URL}assets/arm_logo2.png`,
         logoStyle: {
             backgroundColor: '#13202F',
@@ -249,7 +249,7 @@ export const myProjects2 = [
             'To tackle these problems, a fully interactive 3D simulation of the husky robot was created to test a "Hybrid Control" interface. The system '+
             'blends autonomous navigation with manual overrides to ensure safety and efficiency.',
         href: 'https://drive.google.com/file/d/13mfSsfheicW_w2Rq9srNNjr6Pnp5Hra3/view?usp=sharing',
-        texture: `${import.meta.env.BASE_URL}textures/project/UIOne.mkv`,
+        texture: `${import.meta.env.BASE_URL}textures/project/UIOne.mp4`,
         logo: `${import.meta.env.BASE_URL}assets/project-logo1.png`,
         logoStyle: {
             backgroundColor: '#2A1816',
@@ -290,7 +290,7 @@ export const myProjects2 = [
             'The project lays the groundwork for extending the system beyond simulation and improving immersion, safety and real world applicability. A key next step is integrating the interface with an actual Clearpath Husky Robot. The addition of VR based teleoperation would allow '+
             'operators to interact with the environment more immersively, using VR controllers for waypoint selection and hazard inspection.',
         href: 'https://drive.google.com/file/d/13mfSsfheicW_w2Rq9srNNjr6Pnp5Hra3/view?usp=sharing',
-        texture: `${import.meta.env.BASE_URL}textures/project/UITwo.mkv`,
+        texture: `${import.meta.env.BASE_URL}textures/project/UITwo.mp4`,
         logo: `${import.meta.env.BASE_URL}assets/project-logo2.png`,
         logoStyle: {
             backgroundColor: '#13202F',
